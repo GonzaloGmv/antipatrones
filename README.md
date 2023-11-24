@@ -103,5 +103,3 @@ class CalculadoraGUI:
         else:
             self.entry.insert(tk.END, button)
 ```
-
-Por último he realizado un django en el que se resuelve esto de otra manera. Me ha dado bastantes errores al principio, que según internet y ChatGPT se debia a mi hardware, por lo que no he podido acabarlo correctamente.
