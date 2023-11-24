@@ -1,5 +1,5 @@
 import tkinter as tk
-from calculadora.calculadora_calculos import Calculadora
+from calculadora_tk.calculadora_calculos import Calculadora
 
 class CalculadoraGUI:
     def __init__(self, master):
